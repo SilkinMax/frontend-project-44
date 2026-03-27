@@ -11,3 +11,6 @@
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=SilkinMax_frontend-project-44&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=SilkinMax_frontend-project-44)
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=SilkinMax_frontend-project-44&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=SilkinMax_frontend-project-44)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=SilkinMax_frontend-project-44&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=SilkinMax_frontend-project-44)
+
+## Демонстрация работы игры "Проверка на чётность"
+https://asciinema.org/a/9oAtfdxUU0ZWoYLF
