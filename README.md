@@ -14,3 +14,6 @@
 
 ## Демонстрация работы игры "Проверка на чётность"
 https://asciinema.org/a/9oAtfdxUU0ZWoYLF
+
+## Демонстрация работы игры "Проверка на чётность"
+https://asciinema.org/connect/f3e98a30-02b6-44d2-9b03-2c99d29d21f8
