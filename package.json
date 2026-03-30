@@ -24,6 +24,10 @@
     "brain-games": "bin/brain-games.js",
     "brain-even": "bin/brain-even.js"
   },
+  "files": [
+    "bin",
+    "src"
+  ],
   "dependencies": {
     "readline-sync": "^1.4.10"
   },
