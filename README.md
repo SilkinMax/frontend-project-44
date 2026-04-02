@@ -20,3 +20,6 @@ https://asciinema.org/connect/f3e98a30-02b6-44d2-9b03-2c99d29d21f8
 
 ## Демонстрация работы игры "НОД"
 https://asciinema.org/a/j0UNebIWf1Z45klu
+
+## Демонстрация работы игры "Арифметическая прогрессия"
+https://asciinema.org/a/oqOjCYcDL9Lq9Uqf
