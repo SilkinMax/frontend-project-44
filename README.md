@@ -12,6 +12,7 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=SilkinMax_frontend-project-44&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=SilkinMax_frontend-project-44)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=SilkinMax_frontend-project-44&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=SilkinMax_frontend-project-44)
 
+
 ## Демонстрация работы игры "Проверка на чётность"
 https://asciinema.org/a/9oAtfdxUU0ZWoYLF
 
@@ -23,3 +24,6 @@ https://asciinema.org/a/j0UNebIWf1Z45klu
 
 ## Демонстрация работы игры "Арифметическая прогрессия"
 https://asciinema.org/a/oqOjCYcDL9Lq9Uqf
+
+## Демонстрация работы игры "Простое ли число?"
+https://asciinema.org/a/ianiHvJNcyxrGyKq
