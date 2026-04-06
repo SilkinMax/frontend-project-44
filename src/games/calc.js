@@ -1,10 +1,7 @@
 import runGeneral from '../index.js'
+import { getRandomNumber } from '../library.js'
 
 const ruleGame = 'What is the result of the expression?'
-
-const getRandomNumber = (max = 100) => {
-  return Math.floor(Math.random() * max) + 1
-}
 
 const getRandomOperation = () => {
   const operations = ['+', '-', '*']

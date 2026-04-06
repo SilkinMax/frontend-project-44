@@ -1,4 +1,5 @@
 import runGeneral from '../index.js'
+import { getRandomNumber } from '../library.js'
 
 const isPrime = (num) => {
   if (num < 2) return false
@@ -10,10 +11,6 @@ const isPrime = (num) => {
     if (num % i === 0) return false
   }
   return true
-}
-
-const getRandomNumber = (max = 100) => {
-  return Math.floor(Math.random() * max) + 1
 }
 
 const ruleGame = 'Answer "yes" if given number is prime. Otherwise answer "no".'

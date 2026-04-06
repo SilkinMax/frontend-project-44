@@ -1,4 +1,5 @@
 import runGeneral from '../index.js'
+import { getRandomNumber } from '../library.js'
 
 const findGCD = (a, b) => {
   let num1 = a
@@ -11,10 +12,6 @@ const findGCD = (a, b) => {
   }
 
   return num1
-}
-
-const getRandomNumber = (max = 100) => {
-  return Math.floor(Math.random() * max) + 1
 }
 
 const ruleGame = 'Find the greatest common divisor of given numbers.'
